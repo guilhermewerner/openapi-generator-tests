@@ -1,0 +1,8 @@
+.github/
+docs/
+
+.gitignore
+.travis.yml
+api/openapi.yaml
+git_push.sh
+README.md

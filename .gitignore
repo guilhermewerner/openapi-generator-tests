@@ -1,0 +1,14 @@
+*
+
+!csharp/
+!elixir/
+!go/
+!java/
+!rust/
+!swift/
+!typescript/
+
+!.gitignore
+!.openapi-generator-ignore
+!generate.ps1
+!openapi-generator-cli.jar
